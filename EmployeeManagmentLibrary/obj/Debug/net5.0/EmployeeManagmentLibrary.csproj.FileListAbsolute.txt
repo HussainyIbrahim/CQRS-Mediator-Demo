@@ -1,0 +1,12 @@
+C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\bin\Debug\net5.0\EmployeeManagmentLibrary.deps.json
+C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\bin\Debug\net5.0\EmployeeManagmentLibrary.dll
+C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\bin\Debug\net5.0\EmployeeManagmentLibrary.pdb
+C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\obj\Debug\net5.0\EmployeeManagmentLibrary.csproj.AssemblyReference.cache
+C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\obj\Debug\net5.0\EmployeeManagmentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\obj\Debug\net5.0\EmployeeManagmentLibrary.AssemblyInfoInputs.cache
+C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\obj\Debug\net5.0\EmployeeManagmentLibrary.AssemblyInfo.cs
+C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\obj\Debug\net5.0\EmployeeManagmentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\obj\Debug\net5.0\EmployeeManagmentLibrary.dll
+C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\obj\Debug\net5.0\refint\EmployeeManagmentLibrary.dll
+C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\obj\Debug\net5.0\EmployeeManagmentLibrary.pdb
+C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\obj\Debug\net5.0\ref\EmployeeManagmentLibrary.dll
