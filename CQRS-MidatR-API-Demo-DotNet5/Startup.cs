@@ -24,6 +24,12 @@ namespace CQRS_MidatR_API_Demo_DotNet5
         {
 
             services.AddControllers();
+            // Configure Redis
+            services.AddStackExchangeRedisCache(options =>
+            {
+                options.Configuration = "localhost:6379"; // Replace with your Redis server details
+                options.InstanceName = "RedisCachingDemo_";
+            });
             services.AddScoped<IDataAccess, DataAccess>();
             services.AddMediatR(typeof(DataAccess).Assembly);
             services.AddSignalR();
