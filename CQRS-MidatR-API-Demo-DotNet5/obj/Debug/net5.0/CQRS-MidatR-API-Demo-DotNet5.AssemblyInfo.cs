@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CQRS-MidatR-API-Demo-DotNet5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2b25c6089b67c824e801e66e3c9036e1f3c59ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17b20dfc7219e6678427dedf7c5ec4a3738bae69")]
 [assembly: System.Reflection.AssemblyProductAttribute("CQRS-MidatR-API-Demo-DotNet5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CQRS-MidatR-API-Demo-DotNet5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
