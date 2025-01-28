@@ -34,7 +34,6 @@
       "CQRS-MidatR-API-Demo-DotNet5/1.0.0": {
         "dependencies": {
           "EmployeeManagmentLibrary": "1.0.0",
-          "MediatR": "9.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.0",
           "Swashbuckle.AspNetCore": "5.6.3",

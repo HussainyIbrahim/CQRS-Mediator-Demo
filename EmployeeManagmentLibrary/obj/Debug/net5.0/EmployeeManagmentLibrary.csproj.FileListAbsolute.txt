@@ -10,3 +10,4 @@ C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibr
 C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\obj\Debug\net5.0\refint\EmployeeManagmentLibrary.dll
 C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\obj\Debug\net5.0\EmployeeManagmentLibrary.pdb
 C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\obj\Debug\net5.0\ref\EmployeeManagmentLibrary.dll
+C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\EmployeeManagmentLibrary\obj\Debug\net5.0\EmployeeManagmentLibrary.sourcelink.json

@@ -37,3 +37,4 @@ C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\CQRS-MidatR-API-Demo-
 C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\CQRS-MidatR-API-Demo-DotNet5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\CQRS-MidatR-API-Demo-DotNet5\bin\Debug\net5.0\EmployeeManagmentLibrary.dll
 C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\CQRS-MidatR-API-Demo-DotNet5\bin\Debug\net5.0\EmployeeManagmentLibrary.pdb
+C:\Users\User NA\source\repos\CQRS-MidatR-API-Demo-DotNet5\CQRS-MidatR-API-Demo-DotNet5\obj\Debug\net5.0\CQRS-MidatR-API-Demo-DotNet5.sourcelink.json

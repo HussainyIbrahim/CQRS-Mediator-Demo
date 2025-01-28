@@ -1,3 +1,4 @@
+using CQRS_MidatR_API_Demo_DotNet5.Hubes;
 using EmployeeManagmentLibrary.Data;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
@@ -25,6 +26,17 @@ namespace CQRS_MidatR_API_Demo_DotNet5
             services.AddControllers();
             services.AddScoped<IDataAccess, DataAccess>();
             services.AddMediatR(typeof(DataAccess).Assembly);
+            services.AddSignalR();
+            services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(builder =>
+                {
+                    builder.WithOrigins("http://localhost:4200") // Allow Angular app
+                           .AllowAnyHeader()
+                           .AllowAnyMethod()
+                           .AllowCredentials();
+                });
+            });
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "CQRS_MidatR_API_Demo_DotNet5", Version = "v1" });
@@ -42,6 +54,8 @@ namespace CQRS_MidatR_API_Demo_DotNet5
             }
 
             app.UseHttpsRedirection();
+            //must be called befor UseRouting()
+            app.UseCors();
 
             app.UseRouting();
 
@@ -50,6 +64,7 @@ namespace CQRS_MidatR_API_Demo_DotNet5
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapHub<ChatHub>("/chatHub"); // Map SignalR hub
             });
         }
     }
